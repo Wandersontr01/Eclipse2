@@ -6,6 +6,7 @@ public class PrimeiraClass {
 		System.out.println("primeira alteração!");
 		System.out.println("Segunda alteração");
 		System.out.println("Terceira alteração");
+		System.out.println("Quarta alteração");
 	}
 
 }
